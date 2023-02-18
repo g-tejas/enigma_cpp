@@ -10,3 +10,6 @@
 [submodule "implot"]
 	path = external/implot
 	url = https://github.com/epezent/implot
+[submodule "imgui_command_palette"]
+	path = external/imgui_command_palette
+	url = https://github.com/hnOsmium0001/imgui-command-palette
