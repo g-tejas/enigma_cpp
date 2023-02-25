@@ -1,0 +1,1 @@
+// study https://www.glfw.org/docs/3.3/window_guide.html
